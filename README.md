@@ -36,7 +36,7 @@ SalesNest is a full-stack **Sales Management System** built with the MERN stack 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Mukundbansal10/SalesNest.git
+git clone https://github.com/tejveer200433/SalesNest.git
 cd salesnest
 ```
 
@@ -121,7 +121,7 @@ salesnest/
 
 ## 👨‍💻 Team
 
-- Mukund And Krishna Garg – Backend + Dashboard UI  
+- Mukund , Tejveer Singh And Krishna Garg  – Backend + Dashboard UI  
 
 ---
 
